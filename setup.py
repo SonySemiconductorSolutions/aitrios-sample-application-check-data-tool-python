@@ -19,7 +19,7 @@ import os
 from setuptools import find_packages, setup
 
 PACKAGE_NAME = "checkdata-python"
-PACKAGE_VERSION = "1.1.0"
+PACKAGE_VERSION = "1.1.2"
 PACKAGE_DESCRIPTION = "checkdata-python"
 AUTHOR_NAME = "Sony Semiconductor Solutions Corporation"
 AUTHOR_EMAIL = ""
